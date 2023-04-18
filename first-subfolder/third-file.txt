@@ -1,3 +1,4 @@
 third
 
 Change third-file.txt in main feature
+Change third-file.txt in new-feature
